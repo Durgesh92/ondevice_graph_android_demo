@@ -1,0 +1,93 @@
+
+\data\
+ngram 1=28
+ngram 2=52
+ngram 3=0
+
+\1-grams:
+-0.4662633	</s>
+-99	<s>	0.1652333
+-1.596597	bandaid	-0.1194062
+-1.596597	blizzard	-0.1194062
+-1.596597	blue	-0.1194062
+-1.596597	chandelier	-0.1194062
+-1.596597	currant	-0.1194062
+-1.596597	earthquake	-0.1194062
+-1.596597	gray	-0.1194062
+-1.596597	harmonica	-0.1194062
+-1.596597	honeycomb	-0.1194062
+-1.596597	parachute	-0.1194062
+-1.596597	pineapple	-0.1194062
+-1.596597	pushpin	-0.1194062
+-1.596597	qtip	-0.1194062
+-1.596597	red	-0.1194062
+-1.596597	rhino	-0.1194062
+-1.596597	rhinoceros	-0.1194062
+-1.596597	rhinos	-0.1194062
+-1.596597	seahorse	-0.1194062
+-1.596597	starfish	-0.1194062
+-1.596597	stethoscope	-0.1194062
+-1.596597	stopwatch	-0.1194062
+-1.596597	strainer	-0.1194062
+-1.596597	strawberry	-0.1194062
+-1.596597	toothbrush	-0.1194062
+-1.596597	watermelon	-0.1194062
+-1.596597	yello	-0.1194062
+
+\2-grams:
+-1.716003	<s> bandaid
+-1.716003	<s> blizzard
+-1.716003	<s> blue
+-1.716003	<s> chandelier
+-1.716003	<s> currant
+-1.716003	<s> earthquake
+-1.716003	<s> gray
+-1.716003	<s> harmonica
+-1.716003	<s> honeycomb
+-1.716003	<s> parachute
+-1.716003	<s> pineapple
+-1.716003	<s> pushpin
+-1.716003	<s> qtip
+-1.716003	<s> red
+-1.716003	<s> rhino
+-1.716003	<s> rhinoceros
+-1.716003	<s> rhinos
+-1.716003	<s> seahorse
+-1.716003	<s> starfish
+-1.716003	<s> stethoscope
+-1.716003	<s> stopwatch
+-1.716003	<s> strainer
+-1.716003	<s> strawberry
+-1.716003	<s> toothbrush
+-1.716003	<s> watermelon
+-1.716003	<s> yello
+-0.30103	bandaid </s>
+-0.30103	blizzard </s>
+-0.30103	blue </s>
+-0.30103	chandelier </s>
+-0.30103	currant </s>
+-0.30103	earthquake </s>
+-0.30103	gray </s>
+-0.30103	harmonica </s>
+-0.30103	honeycomb </s>
+-0.30103	parachute </s>
+-0.30103	pineapple </s>
+-0.30103	pushpin </s>
+-0.30103	qtip </s>
+-0.30103	red </s>
+-0.30103	rhino </s>
+-0.30103	rhinoceros </s>
+-0.30103	rhinos </s>
+-0.30103	seahorse </s>
+-0.30103	starfish </s>
+-0.30103	stethoscope </s>
+-0.30103	stopwatch </s>
+-0.30103	strainer </s>
+-0.30103	strawberry </s>
+-0.30103	toothbrush </s>
+-0.30103	watermelon </s>
+-0.30103	yello </s>
+
+\3-grams:
+
+\end\

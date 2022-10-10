@@ -1,0 +1,292 @@
+a	1.0	AH
+a	1.0	EY
+ache	1.0	EY K
+addressed	1.0	AH D R EH S T
+aisle	1.0	AY AH L
+aisle	1.0	AY L
+an	1.0	AE N
+an	1.0	AH N
+ankle	1.0	AE NG K AH L
+artillery	1.0	AA R T IH L ER IY
+at	1.0	AE T
+ball	1.0	B AO L
+bandaid	1.0	B AE N D EY D
+beautiful	1.0	B Y UW T AH F AH L
+before	1.0	B IH F AO R
+before	1.0	B IY F AO R
+blizzard	1.0	B L IH Z ER D
+blue	1.0	B L UW
+boat	1.0	B OW T
+book	1.0	B UH K
+boys	1.0	B OY Z
+bracelet	1.0	B R EY S L AH T
+breakfast	1.0	B R EH K F AH S T
+bridge	1.0	B R IH JH
+bus	1.0	B AH S
+butterfly	1.0	B AH T ER F L AY
+button	1.0	B AH T AH N
+by	1.0	B AY
+cape	1.0	K EY P
+car	1.0	K AA R
+carriage	1.0	K AE R IH JH
+carriage	1.0	K EH R AH JH
+celery	1.0	S EH L ER IY
+cello	1.0	CH EH L OW
+champ	1.0	CH AE M P
+chandelier	1.0	SH AE N D AH L IH R
+chandeliers	1.0	SH AE N D AH L IH Z
+chased	1.0	CH EY S T
+cheer	1.0	CH IH R
+child	1.0	CH AY L D
+choir	1.0	K W AY ER
+coat	1.0	K OW T
+colonel	1.0	K ER N AH L
+contained	1.0	K AH N T EY N D
+continental	1.0	K AA N T AH N EH N AH L
+continental	1.0	K AA N T AH N EH N T AH L
+cool	1.0	K UW L
+corn	1.0	K AO R N
+cow	1.0	K AW
+crown	1.0	K R AW N
+cucumber	1.0	K Y UW K AH M B ER
+currant	1.0	K ER AH N T
+dance	1.0	D AE N S
+debris	1.0	D AH B R IY
+debt	1.0	D EH T
+deer	1.0	D IH R
+defect	1.0	D IH F EH K T
+defect	1.0	D IY F EH K T
+don't	1.0	D OW N
+don't	1.0	D OW N T
+dont	1.0	D OW N T
+door	1.0	D AO R
+drain	1.0	D R EY N
+dress	1.0	D R EH S
+driveway	1.0	D R AY V W EY
+earth	1.0	ER TH
+earthquake	1.0	ER TH K W EY K
+eggplant	1.0	EH G P L AE N T
+eight	1.0	EY T
+elders	1.0	EH L D ER Z
+even	1.0	IY V IH N
+exceptionally	1.0	IH K S EH P SH AH N AH L IY
+exceptionally	1.0	IH K S EH P SH N AH L IY
+factory	1.0	F AE K T ER IY
+family	1.0	F AE M AE L IY
+family	1.0	F AE M AH L IY
+family	1.0	F AE M L IY
+fan	1.0	F AE N
+ferry	1.0	F EH R IY
+fig	1.0	F IH G
+five	1.0	F AY V
+folder	1.0	F OW L D ER
+following	1.0	F AA L OW IH NG
+forgot	1.0	F AO R G AA T
+forgot	1.0	F ER G AA T
+four	1.0	F AO R
+freight	1.0	F R EY T
+frightened	1.0	F R AY T AH N D
+fun	1.0	F AH N
+game	1.0	G EY M
+garlic	1.0	G AA R L IH K
+gauge	1.0	G EY JH
+ginger	1.0	JH IH N JH ER
+giraffe	1.0	JH ER AE F
+girls	1.0	G ER L Z
+give	1.0	G IH V
+glasses	1.0	G L AE S AH Z
+glasses	1.0	G L AE S IH Z
+glue	1.0	G L UW
+goggles	1.0	G AA G AH L Z
+gosh	1.0	G AA SH
+green	1.0	G R IY N
+grey	1.0	G R EY
+grin	1.0	G R IH N
+guava	1.0	G W AA V AH
+gym	1.0	JH IH M
+had	1.0	HH AE D
+happy	1.0	HH AE P IY
+harmonica	1.0	HH AA R M AA N IH K AH
+harmonics	1.0	HH AA R M AA N IH K S
+has	1.0	HH AE Z
+has	1.0	HH AH Z
+he	1.0	HH IY
+he	1.0	IY
+heir	1.0	EH R
+her	1.0	HH ER
+honeycomb	1.0	HH AH N IY K OW M
+honeycombs	1.0	HH AH N IY K AA M Z
+hood	1.0	HH UH D
+hoop	1.0	HH UW P
+hope	1.0	HH OW P
+hotel	1.0	HH OW T EH L
+hurdle	1.0	HH ER D AH L
+i	1.0	AY
+igloo	1.0	IH G L UW
+in	1.0	IH N
+is	1.0	IH Z
+it	1.0	IH T
+joke	1.0	JH OW K
+joy	1.0	JH OY
+jump	1.0	JH AH M P
+kale	1.0	K EY L
+knock	1.0	N AA K
+know	1.0	N AH UH
+know	1.0	N OW
+lady	1.0	L EY D IY
+lagoon	1.0	L AH G UW N
+lake	1.0	L EY K
+lane	1.0	L EY N
+laptop	1.0	L AE P T AA P
+laugh	1.0	L AE F
+leaf	1.0	L IY F
+left	1.0	L EH F T
+lettuce	1.0	L EH T AH S
+limb	1.0	L IH M
+lobster	1.0	L AA B S T ER
+luck	1.0	L AH K
+magnet	1.0	M AE G N AH T
+manor	1.0	M AE N ER
+marker	1.0	M AA R K ER
+mary	1.0	M EH R IY
+masterson	1.0	M AE S T ER S AH N
+matronly	1.0	M EY T R AH N L IY
+matt	1.0	M AE T
+meadow	1.0	M EH D OW
+memo	1.0	M EH M OW
+monsoon	1.0	M AA N S UW N
+mosquito	1.0	M AH S K IY T OW
+mosquitos	1.0	M AH S K IY T OW Z
+mountain	1.0	M AW N T AH N
+move	1.0	M UW V
+mr	1.0	M IH S T ER
+mrs	1.0	M IH S IH Z
+my	1.0	M AY
+necklace	1.0	N EH K L AH S
+nephews	1.0	N EH F Y UW Z
+nine	1.0	N AY N
+no	1.0	N OW
+notebook	1.0	N OW T B UH K
+octopus	1.0	AA K T AH P UH S
+of	1.0	AH V
+oh	1.0	OW
+one	1.0	HH W AH N
+one	1.0	W AH N
+paper	1.0	P EY P ER
+parachute	1.0	P EH R AH SH UW T
+parasol	1.0	P EH R AH S AO L
+parasols	1.0	P EH R AH S OW L Z
+pear	1.0	P EH R
+persian	1.0	P ER ZH AH N
+pie	1.0	P AY
+pineapple	1.0	P AY N AE P AH L
+pint	1.0	P AY N T
+plans	1.0	P L AE N Z
+plateau	1.0	P L AE T OW
+pray	1.0	P R EY
+pushpin	1.0	P UH SH P IH N
+raccoon	1.0	R AE K UW N
+racquets	1.0	R AE K IH T S
+recommendation	1.0	R EH K AH M AH N D EY SH AH N
+red	1.0	R EH D
+refrigerator	1.0	R AH F R IH JH ER EY T ER
+refrigerator	1.0	R IH F R IH JH ER EY T ER
+remember	1.0	R IH M EH M B ER
+remember	1.0	R IY M EH M B ER
+reproachful	1.0	R IY P R OW CH F AH L
+resembled	1.0	R IH Z EH M B AH L D
+resembled	1.0	R IY Z EH M B AH L D
+rhino	1.0	R AY N OW
+rhinoceros	1.0	R AY N AA S ER AH S
+rhinos	1.0	R AY N OW Z
+right	1.0	R AY T
+ritualistic	1.0	R IH CH UW AH L IH S T IH K
+road	1.0	R OW D
+ruby	1.0	R UW B IY
+ruin	1.0	R UW AH N
+ruin	1.0	R UW IH N
+scanner	1.0	S K AE N ER
+seahorse	1.0	S IY HH AO R S
+seize	1.0	S IY Z
+seven	1.0	S EH V AH N
+sew	1.0	S OW
+shave	1.0	SH EY V
+she	1.0	SH IY
+sheep	1.0	SH IY P
+shelves	1.0	SH EH L V Z
+shop	1.0	SH AA P
+sieve	1.0	S IH V
+sigh	1.0	S AY
+six	1.0	S IH K S
+skunk	1.0	S K AH NG K
+snails	1.0	S N EY L Z
+snake	1.0	S N EY K
+soldier	1.0	S OW L JH ER
+speak	1.0	S P IY K
+squid	1.0	S K W IH D
+starfish	1.0	S T AA R F IH SH
+steamer	1.0	S T IY M ER
+stethoscope	1.0	S T EH TH AH S K OW P
+stopwatch	1.0	S T AA P W AA CH
+strainer	1.0	S T R EY N ER
+strawberry	1.0	S T R AO B EH R IY
+stream	1.0	S T R IY M
+strongest	1.0	S T R AO NG G AH S T
+structural	1.0	S T R AH K CH ER AH L
+swing	1.0	S W IH NG
+sword	1.0	S AO R D
+take	1.0	T EY K
+that	1.0	DH AE T
+that	1.0	DH AH T
+the	1.0	DH AH
+the	1.0	DH IY
+their	1.0	DH EH R
+they	1.0	DH EY
+thought	1.0	TH AO T
+three	1.0	TH R IY
+to	1.0	T AH
+to	1.0	T IH
+to	1.0	T UW
+tongue	1.0	T AH NG
+toothbrush	1.0	T UW TH B R AH SH
+top	1.0	T AA P
+top	1.0	T AO P
+tornado	1.0	T AO R N EY D OW
+train	1.0	T R EY N
+tree	1.0	T R IY
+two	1.0	T UW
+um	1.0	AH M
+umbrella	1.0	AH M B R EH L AH
+umbrellas	1.0	AH M B R EH L AH Z
+up	1.0	AH P
+volcano	1.0	V AA L K EY N OW
+was	1.0	W AA Z
+was	1.0	W AH Z
+was	1.0	W AO Z
+wasn't	1.0	W AA Z AH N T
+wasn't	1.0	W AH Z AH N T
+watermelon	1.0	W AO T ER M EH L AH N
+were	1.0	W EH R
+were	1.0	W ER
+when	1.0	HH W EH N
+when	1.0	HH W IH N
+when	1.0	W EH N
+when	1.0	W IH N
+white	1.0	HH W AY T
+white	1.0	W AY T
+with	1.0	W IH DH
+with	1.0	W IH TH
+would	1.0	W UH D
+yacht	1.0	Y AA T
+yellow	1.0	Y EH L OW
+you	1.0	Y UW
+Johnson	1.0	OW N S AH N
+Masterson	1.0	AE S T ER S AH N
+Mrs	1.0	R Z
+Persian	1.0	ER ZH AH N
+Singer	1.0	IH NG G ER
+White	1.0	HH AY T
+morning,	1.0	M AO R N IH NG
+qtip	1.0	K T IH P
+!SIL	1.0	SIL
+[unk]	1.0	NSN

@@ -1,0 +1,293 @@
+!SIL !SIL SIL_S
+<eps> <eps> SIL
+Johnson Johnson OW_B N_I S_I AH_I N_E
+Masterson Masterson AE_B S_I T_I ER_I S_I AH_I N_E
+Mrs Mrs R_B Z_E
+Persian Persian ER_B ZH_I AH_I N_E
+Singer Singer IH_B NG_I G_I ER_E
+White White HH_B AY_I T_E
+[unk] [unk] NSN_S
+a a AH_S
+a a EY_S
+ache ache EY_B K_E
+addressed addressed AH_B D_I R_I EH_I S_I T_E
+aisle aisle AY_B AH_I L_E
+aisle aisle AY_B L_E
+an an AE_B N_E
+an an AH_B N_E
+ankle ankle AE_B NG_I K_I AH_I L_E
+artillery artillery AA_B R_I T_I IH_I L_I ER_I IY_E
+at at AE_B T_E
+ball ball B_B AO_I L_E
+bandaid bandaid B_B AE_I N_I D_I EY_I D_E
+beautiful beautiful B_B Y_I UW_I T_I AH_I F_I AH_I L_E
+before before B_B IH_I F_I AO_I R_E
+before before B_B IY_I F_I AO_I R_E
+blizzard blizzard B_B L_I IH_I Z_I ER_I D_E
+blue blue B_B L_I UW_E
+boat boat B_B OW_I T_E
+book book B_B UH_I K_E
+boys boys B_B OY_I Z_E
+bracelet bracelet B_B R_I EY_I S_I L_I AH_I T_E
+breakfast breakfast B_B R_I EH_I K_I F_I AH_I S_I T_E
+bridge bridge B_B R_I IH_I JH_E
+bus bus B_B AH_I S_E
+butterfly butterfly B_B AH_I T_I ER_I F_I L_I AY_E
+button button B_B AH_I T_I AH_I N_E
+by by B_B AY_E
+cape cape K_B EY_I P_E
+car car K_B AA_I R_E
+carriage carriage K_B AE_I R_I IH_I JH_E
+carriage carriage K_B EH_I R_I AH_I JH_E
+celery celery S_B EH_I L_I ER_I IY_E
+cello cello CH_B EH_I L_I OW_E
+champ champ CH_B AE_I M_I P_E
+chandelier chandelier SH_B AE_I N_I D_I AH_I L_I IH_I R_E
+chandeliers chandeliers SH_B AE_I N_I D_I AH_I L_I IH_I Z_E
+chased chased CH_B EY_I S_I T_E
+cheer cheer CH_B IH_I R_E
+child child CH_B AY_I L_I D_E
+choir choir K_B W_I AY_I ER_E
+coat coat K_B OW_I T_E
+colonel colonel K_B ER_I N_I AH_I L_E
+contained contained K_B AH_I N_I T_I EY_I N_I D_E
+continental continental K_B AA_I N_I T_I AH_I N_I EH_I N_I AH_I L_E
+continental continental K_B AA_I N_I T_I AH_I N_I EH_I N_I T_I AH_I L_E
+cool cool K_B UW_I L_E
+corn corn K_B AO_I R_I N_E
+cow cow K_B AW_E
+crown crown K_B R_I AW_I N_E
+cucumber cucumber K_B Y_I UW_I K_I AH_I M_I B_I ER_E
+currant currant K_B ER_I AH_I N_I T_E
+dance dance D_B AE_I N_I S_E
+debris debris D_B AH_I B_I R_I IY_E
+debt debt D_B EH_I T_E
+deer deer D_B IH_I R_E
+defect defect D_B IH_I F_I EH_I K_I T_E
+defect defect D_B IY_I F_I EH_I K_I T_E
+don't don't D_B OW_I N_E
+don't don't D_B OW_I N_I T_E
+dont dont D_B OW_I N_I T_E
+door door D_B AO_I R_E
+drain drain D_B R_I EY_I N_E
+dress dress D_B R_I EH_I S_E
+driveway driveway D_B R_I AY_I V_I W_I EY_E
+earth earth ER_B TH_E
+earthquake earthquake ER_B TH_I K_I W_I EY_I K_E
+eggplant eggplant EH_B G_I P_I L_I AE_I N_I T_E
+eight eight EY_B T_E
+elders elders EH_B L_I D_I ER_I Z_E
+even even IY_B V_I IH_I N_E
+exceptionally exceptionally IH_B K_I S_I EH_I P_I SH_I AH_I N_I AH_I L_I IY_E
+exceptionally exceptionally IH_B K_I S_I EH_I P_I SH_I N_I AH_I L_I IY_E
+factory factory F_B AE_I K_I T_I ER_I IY_E
+family family F_B AE_I M_I AE_I L_I IY_E
+family family F_B AE_I M_I AH_I L_I IY_E
+family family F_B AE_I M_I L_I IY_E
+fan fan F_B AE_I N_E
+ferry ferry F_B EH_I R_I IY_E
+fig fig F_B IH_I G_E
+five five F_B AY_I V_E
+folder folder F_B OW_I L_I D_I ER_E
+following following F_B AA_I L_I OW_I IH_I NG_E
+forgot forgot F_B AO_I R_I G_I AA_I T_E
+forgot forgot F_B ER_I G_I AA_I T_E
+four four F_B AO_I R_E
+freight freight F_B R_I EY_I T_E
+frightened frightened F_B R_I AY_I T_I AH_I N_I D_E
+fun fun F_B AH_I N_E
+game game G_B EY_I M_E
+garlic garlic G_B AA_I R_I L_I IH_I K_E
+gauge gauge G_B EY_I JH_E
+ginger ginger JH_B IH_I N_I JH_I ER_E
+giraffe giraffe JH_B ER_I AE_I F_E
+girls girls G_B ER_I L_I Z_E
+give give G_B IH_I V_E
+glasses glasses G_B L_I AE_I S_I AH_I Z_E
+glasses glasses G_B L_I AE_I S_I IH_I Z_E
+glue glue G_B L_I UW_E
+goggles goggles G_B AA_I G_I AH_I L_I Z_E
+gosh gosh G_B AA_I SH_E
+green green G_B R_I IY_I N_E
+grey grey G_B R_I EY_E
+grin grin G_B R_I IH_I N_E
+guava guava G_B W_I AA_I V_I AH_E
+gym gym JH_B IH_I M_E
+had had HH_B AE_I D_E
+happy happy HH_B AE_I P_I IY_E
+harmonica harmonica HH_B AA_I R_I M_I AA_I N_I IH_I K_I AH_E
+harmonics harmonics HH_B AA_I R_I M_I AA_I N_I IH_I K_I S_E
+has has HH_B AE_I Z_E
+has has HH_B AH_I Z_E
+he he HH_B IY_E
+he he IY_S
+heir heir EH_B R_E
+her her HH_B ER_E
+honeycomb honeycomb HH_B AH_I N_I IY_I K_I OW_I M_E
+honeycombs honeycombs HH_B AH_I N_I IY_I K_I AA_I M_I Z_E
+hood hood HH_B UH_I D_E
+hoop hoop HH_B UW_I P_E
+hope hope HH_B OW_I P_E
+hotel hotel HH_B OW_I T_I EH_I L_E
+hurdle hurdle HH_B ER_I D_I AH_I L_E
+i i AY_S
+igloo igloo IH_B G_I L_I UW_E
+in in IH_B N_E
+is is IH_B Z_E
+it it IH_B T_E
+joke joke JH_B OW_I K_E
+joy joy JH_B OY_E
+jump jump JH_B AH_I M_I P_E
+kale kale K_B EY_I L_E
+knock knock N_B AA_I K_E
+know know N_B AH_I UH_E
+know know N_B OW_E
+lady lady L_B EY_I D_I IY_E
+lagoon lagoon L_B AH_I G_I UW_I N_E
+lake lake L_B EY_I K_E
+lane lane L_B EY_I N_E
+laptop laptop L_B AE_I P_I T_I AA_I P_E
+laugh laugh L_B AE_I F_E
+leaf leaf L_B IY_I F_E
+left left L_B EH_I F_I T_E
+lettuce lettuce L_B EH_I T_I AH_I S_E
+limb limb L_B IH_I M_E
+lobster lobster L_B AA_I B_I S_I T_I ER_E
+luck luck L_B AH_I K_E
+magnet magnet M_B AE_I G_I N_I AH_I T_E
+manor manor M_B AE_I N_I ER_E
+marker marker M_B AA_I R_I K_I ER_E
+mary mary M_B EH_I R_I IY_E
+masterson masterson M_B AE_I S_I T_I ER_I S_I AH_I N_E
+matronly matronly M_B EY_I T_I R_I AH_I N_I L_I IY_E
+matt matt M_B AE_I T_E
+meadow meadow M_B EH_I D_I OW_E
+memo memo M_B EH_I M_I OW_E
+monsoon monsoon M_B AA_I N_I S_I UW_I N_E
+morning, morning, M_B AO_I R_I N_I IH_I NG_E
+mosquito mosquito M_B AH_I S_I K_I IY_I T_I OW_E
+mosquitos mosquitos M_B AH_I S_I K_I IY_I T_I OW_I Z_E
+mountain mountain M_B AW_I N_I T_I AH_I N_E
+move move M_B UW_I V_E
+mr mr M_B IH_I S_I T_I ER_E
+mrs mrs M_B IH_I S_I IH_I Z_E
+my my M_B AY_E
+necklace necklace N_B EH_I K_I L_I AH_I S_E
+nephews nephews N_B EH_I F_I Y_I UW_I Z_E
+nine nine N_B AY_I N_E
+no no N_B OW_E
+notebook notebook N_B OW_I T_I B_I UH_I K_E
+octopus octopus AA_B K_I T_I AH_I P_I UH_I S_E
+of of AH_B V_E
+oh oh OW_S
+one one HH_B W_I AH_I N_E
+one one W_B AH_I N_E
+paper paper P_B EY_I P_I ER_E
+parachute parachute P_B EH_I R_I AH_I SH_I UW_I T_E
+parasol parasol P_B EH_I R_I AH_I S_I AO_I L_E
+parasols parasols P_B EH_I R_I AH_I S_I OW_I L_I Z_E
+pear pear P_B EH_I R_E
+persian persian P_B ER_I ZH_I AH_I N_E
+pie pie P_B AY_E
+pineapple pineapple P_B AY_I N_I AE_I P_I AH_I L_E
+pint pint P_B AY_I N_I T_E
+plans plans P_B L_I AE_I N_I Z_E
+plateau plateau P_B L_I AE_I T_I OW_E
+pray pray P_B R_I EY_E
+pushpin pushpin P_B UH_I SH_I P_I IH_I N_E
+qtip qtip K_B T_I IH_I P_E
+raccoon raccoon R_B AE_I K_I UW_I N_E
+racquets racquets R_B AE_I K_I IH_I T_I S_E
+recommendation recommendation R_B EH_I K_I AH_I M_I AH_I N_I D_I EY_I SH_I AH_I N_E
+red red R_B EH_I D_E
+refrigerator refrigerator R_B AH_I F_I R_I IH_I JH_I ER_I EY_I T_I ER_E
+refrigerator refrigerator R_B IH_I F_I R_I IH_I JH_I ER_I EY_I T_I ER_E
+remember remember R_B IH_I M_I EH_I M_I B_I ER_E
+remember remember R_B IY_I M_I EH_I M_I B_I ER_E
+reproachful reproachful R_B IY_I P_I R_I OW_I CH_I F_I AH_I L_E
+resembled resembled R_B IH_I Z_I EH_I M_I B_I AH_I L_I D_E
+resembled resembled R_B IY_I Z_I EH_I M_I B_I AH_I L_I D_E
+rhino rhino R_B AY_I N_I OW_E
+rhinoceros rhinoceros R_B AY_I N_I AA_I S_I ER_I AH_I S_E
+rhinos rhinos R_B AY_I N_I OW_I Z_E
+right right R_B AY_I T_E
+ritualistic ritualistic R_B IH_I CH_I UW_I AH_I L_I IH_I S_I T_I IH_I K_E
+road road R_B OW_I D_E
+ruby ruby R_B UW_I B_I IY_E
+ruin ruin R_B UW_I AH_I N_E
+ruin ruin R_B UW_I IH_I N_E
+scanner scanner S_B K_I AE_I N_I ER_E
+seahorse seahorse S_B IY_I HH_I AO_I R_I S_E
+seize seize S_B IY_I Z_E
+seven seven S_B EH_I V_I AH_I N_E
+sew sew S_B OW_E
+shave shave SH_B EY_I V_E
+she she SH_B IY_E
+sheep sheep SH_B IY_I P_E
+shelves shelves SH_B EH_I L_I V_I Z_E
+shop shop SH_B AA_I P_E
+sieve sieve S_B IH_I V_E
+sigh sigh S_B AY_E
+six six S_B IH_I K_I S_E
+skunk skunk S_B K_I AH_I NG_I K_E
+snails snails S_B N_I EY_I L_I Z_E
+snake snake S_B N_I EY_I K_E
+soldier soldier S_B OW_I L_I JH_I ER_E
+speak speak S_B P_I IY_I K_E
+squid squid S_B K_I W_I IH_I D_E
+starfish starfish S_B T_I AA_I R_I F_I IH_I SH_E
+steamer steamer S_B T_I IY_I M_I ER_E
+stethoscope stethoscope S_B T_I EH_I TH_I AH_I S_I K_I OW_I P_E
+stopwatch stopwatch S_B T_I AA_I P_I W_I AA_I CH_E
+strainer strainer S_B T_I R_I EY_I N_I ER_E
+strawberry strawberry S_B T_I R_I AO_I B_I EH_I R_I IY_E
+stream stream S_B T_I R_I IY_I M_E
+strongest strongest S_B T_I R_I AO_I NG_I G_I AH_I S_I T_E
+structural structural S_B T_I R_I AH_I K_I CH_I ER_I AH_I L_E
+swing swing S_B W_I IH_I NG_E
+sword sword S_B AO_I R_I D_E
+take take T_B EY_I K_E
+that that DH_B AE_I T_E
+that that DH_B AH_I T_E
+the the DH_B AH_E
+the the DH_B IY_E
+their their DH_B EH_I R_E
+they they DH_B EY_E
+thought thought TH_B AO_I T_E
+three three TH_B R_I IY_E
+to to T_B AH_E
+to to T_B IH_E
+to to T_B UW_E
+tongue tongue T_B AH_I NG_E
+toothbrush toothbrush T_B UW_I TH_I B_I R_I AH_I SH_E
+top top T_B AA_I P_E
+top top T_B AO_I P_E
+tornado tornado T_B AO_I R_I N_I EY_I D_I OW_E
+train train T_B R_I EY_I N_E
+tree tree T_B R_I IY_E
+two two T_B UW_E
+um um AH_B M_E
+umbrella umbrella AH_B M_I B_I R_I EH_I L_I AH_E
+umbrellas umbrellas AH_B M_I B_I R_I EH_I L_I AH_I Z_E
+up up AH_B P_E
+volcano volcano V_B AA_I L_I K_I EY_I N_I OW_E
+was was W_B AA_I Z_E
+was was W_B AH_I Z_E
+was was W_B AO_I Z_E
+wasn't wasn't W_B AA_I Z_I AH_I N_I T_E
+wasn't wasn't W_B AH_I Z_I AH_I N_I T_E
+watermelon watermelon W_B AO_I T_I ER_I M_I EH_I L_I AH_I N_E
+were were W_B EH_I R_E
+were were W_B ER_E
+when when HH_B W_I EH_I N_E
+when when HH_B W_I IH_I N_E
+when when W_B EH_I N_E
+when when W_B IH_I N_E
+white white HH_B W_I AY_I T_E
+white white W_B AY_I T_E
+with with W_B IH_I DH_E
+with with W_B IH_I TH_E
+would would W_B UH_I D_E
+yacht yacht Y_B AA_I T_E
+yellow yellow Y_B EH_I L_I OW_E
+you you Y_B UW_E

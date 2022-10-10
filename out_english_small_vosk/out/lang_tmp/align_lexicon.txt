@@ -1,0 +1,293 @@
+a AH_S
+a EY_S
+ache EY_B K_E
+addressed AH_B D_I R_I EH_I S_I T_E
+aisle AY_B AH_I L_E
+aisle AY_B L_E
+an AE_B N_E
+an AH_B N_E
+ankle AE_B NG_I K_I AH_I L_E
+artillery AA_B R_I T_I IH_I L_I ER_I IY_E
+at AE_B T_E
+ball B_B AO_I L_E
+bandaid B_B AE_I N_I D_I EY_I D_E
+beautiful B_B Y_I UW_I T_I AH_I F_I AH_I L_E
+before B_B IH_I F_I AO_I R_E
+before B_B IY_I F_I AO_I R_E
+blizzard B_B L_I IH_I Z_I ER_I D_E
+blue B_B L_I UW_E
+boat B_B OW_I T_E
+book B_B UH_I K_E
+boys B_B OY_I Z_E
+bracelet B_B R_I EY_I S_I L_I AH_I T_E
+breakfast B_B R_I EH_I K_I F_I AH_I S_I T_E
+bridge B_B R_I IH_I JH_E
+bus B_B AH_I S_E
+butterfly B_B AH_I T_I ER_I F_I L_I AY_E
+button B_B AH_I T_I AH_I N_E
+by B_B AY_E
+cape K_B EY_I P_E
+car K_B AA_I R_E
+carriage K_B AE_I R_I IH_I JH_E
+carriage K_B EH_I R_I AH_I JH_E
+celery S_B EH_I L_I ER_I IY_E
+cello CH_B EH_I L_I OW_E
+champ CH_B AE_I M_I P_E
+chandelier SH_B AE_I N_I D_I AH_I L_I IH_I R_E
+chandeliers SH_B AE_I N_I D_I AH_I L_I IH_I Z_E
+chased CH_B EY_I S_I T_E
+cheer CH_B IH_I R_E
+child CH_B AY_I L_I D_E
+choir K_B W_I AY_I ER_E
+coat K_B OW_I T_E
+colonel K_B ER_I N_I AH_I L_E
+contained K_B AH_I N_I T_I EY_I N_I D_E
+continental K_B AA_I N_I T_I AH_I N_I EH_I N_I AH_I L_E
+continental K_B AA_I N_I T_I AH_I N_I EH_I N_I T_I AH_I L_E
+cool K_B UW_I L_E
+corn K_B AO_I R_I N_E
+cow K_B AW_E
+crown K_B R_I AW_I N_E
+cucumber K_B Y_I UW_I K_I AH_I M_I B_I ER_E
+currant K_B ER_I AH_I N_I T_E
+dance D_B AE_I N_I S_E
+debris D_B AH_I B_I R_I IY_E
+debt D_B EH_I T_E
+deer D_B IH_I R_E
+defect D_B IH_I F_I EH_I K_I T_E
+defect D_B IY_I F_I EH_I K_I T_E
+don't D_B OW_I N_E
+don't D_B OW_I N_I T_E
+dont D_B OW_I N_I T_E
+door D_B AO_I R_E
+drain D_B R_I EY_I N_E
+dress D_B R_I EH_I S_E
+driveway D_B R_I AY_I V_I W_I EY_E
+earth ER_B TH_E
+earthquake ER_B TH_I K_I W_I EY_I K_E
+eggplant EH_B G_I P_I L_I AE_I N_I T_E
+eight EY_B T_E
+elders EH_B L_I D_I ER_I Z_E
+even IY_B V_I IH_I N_E
+exceptionally IH_B K_I S_I EH_I P_I SH_I AH_I N_I AH_I L_I IY_E
+exceptionally IH_B K_I S_I EH_I P_I SH_I N_I AH_I L_I IY_E
+factory F_B AE_I K_I T_I ER_I IY_E
+family F_B AE_I M_I AE_I L_I IY_E
+family F_B AE_I M_I AH_I L_I IY_E
+family F_B AE_I M_I L_I IY_E
+fan F_B AE_I N_E
+ferry F_B EH_I R_I IY_E
+fig F_B IH_I G_E
+five F_B AY_I V_E
+folder F_B OW_I L_I D_I ER_E
+following F_B AA_I L_I OW_I IH_I NG_E
+forgot F_B AO_I R_I G_I AA_I T_E
+forgot F_B ER_I G_I AA_I T_E
+four F_B AO_I R_E
+freight F_B R_I EY_I T_E
+frightened F_B R_I AY_I T_I AH_I N_I D_E
+fun F_B AH_I N_E
+game G_B EY_I M_E
+garlic G_B AA_I R_I L_I IH_I K_E
+gauge G_B EY_I JH_E
+ginger JH_B IH_I N_I JH_I ER_E
+giraffe JH_B ER_I AE_I F_E
+girls G_B ER_I L_I Z_E
+give G_B IH_I V_E
+glasses G_B L_I AE_I S_I AH_I Z_E
+glasses G_B L_I AE_I S_I IH_I Z_E
+glue G_B L_I UW_E
+goggles G_B AA_I G_I AH_I L_I Z_E
+gosh G_B AA_I SH_E
+green G_B R_I IY_I N_E
+grey G_B R_I EY_E
+grin G_B R_I IH_I N_E
+guava G_B W_I AA_I V_I AH_E
+gym JH_B IH_I M_E
+had HH_B AE_I D_E
+happy HH_B AE_I P_I IY_E
+harmonica HH_B AA_I R_I M_I AA_I N_I IH_I K_I AH_E
+harmonics HH_B AA_I R_I M_I AA_I N_I IH_I K_I S_E
+has HH_B AE_I Z_E
+has HH_B AH_I Z_E
+he HH_B IY_E
+he IY_S
+heir EH_B R_E
+her HH_B ER_E
+honeycomb HH_B AH_I N_I IY_I K_I OW_I M_E
+honeycombs HH_B AH_I N_I IY_I K_I AA_I M_I Z_E
+hood HH_B UH_I D_E
+hoop HH_B UW_I P_E
+hope HH_B OW_I P_E
+hotel HH_B OW_I T_I EH_I L_E
+hurdle HH_B ER_I D_I AH_I L_E
+i AY_S
+igloo IH_B G_I L_I UW_E
+in IH_B N_E
+is IH_B Z_E
+it IH_B T_E
+joke JH_B OW_I K_E
+joy JH_B OY_E
+jump JH_B AH_I M_I P_E
+kale K_B EY_I L_E
+knock N_B AA_I K_E
+know N_B AH_I UH_E
+know N_B OW_E
+lady L_B EY_I D_I IY_E
+lagoon L_B AH_I G_I UW_I N_E
+lake L_B EY_I K_E
+lane L_B EY_I N_E
+laptop L_B AE_I P_I T_I AA_I P_E
+laugh L_B AE_I F_E
+leaf L_B IY_I F_E
+left L_B EH_I F_I T_E
+lettuce L_B EH_I T_I AH_I S_E
+limb L_B IH_I M_E
+lobster L_B AA_I B_I S_I T_I ER_E
+luck L_B AH_I K_E
+magnet M_B AE_I G_I N_I AH_I T_E
+manor M_B AE_I N_I ER_E
+marker M_B AA_I R_I K_I ER_E
+mary M_B EH_I R_I IY_E
+masterson M_B AE_I S_I T_I ER_I S_I AH_I N_E
+matronly M_B EY_I T_I R_I AH_I N_I L_I IY_E
+matt M_B AE_I T_E
+meadow M_B EH_I D_I OW_E
+memo M_B EH_I M_I OW_E
+monsoon M_B AA_I N_I S_I UW_I N_E
+mosquito M_B AH_I S_I K_I IY_I T_I OW_E
+mosquitos M_B AH_I S_I K_I IY_I T_I OW_I Z_E
+mountain M_B AW_I N_I T_I AH_I N_E
+move M_B UW_I V_E
+mr M_B IH_I S_I T_I ER_E
+mrs M_B IH_I S_I IH_I Z_E
+my M_B AY_E
+necklace N_B EH_I K_I L_I AH_I S_E
+nephews N_B EH_I F_I Y_I UW_I Z_E
+nine N_B AY_I N_E
+no N_B OW_E
+notebook N_B OW_I T_I B_I UH_I K_E
+octopus AA_B K_I T_I AH_I P_I UH_I S_E
+of AH_B V_E
+oh OW_S
+one HH_B W_I AH_I N_E
+one W_B AH_I N_E
+paper P_B EY_I P_I ER_E
+parachute P_B EH_I R_I AH_I SH_I UW_I T_E
+parasol P_B EH_I R_I AH_I S_I AO_I L_E
+parasols P_B EH_I R_I AH_I S_I OW_I L_I Z_E
+pear P_B EH_I R_E
+persian P_B ER_I ZH_I AH_I N_E
+pie P_B AY_E
+pineapple P_B AY_I N_I AE_I P_I AH_I L_E
+pint P_B AY_I N_I T_E
+plans P_B L_I AE_I N_I Z_E
+plateau P_B L_I AE_I T_I OW_E
+pray P_B R_I EY_E
+pushpin P_B UH_I SH_I P_I IH_I N_E
+raccoon R_B AE_I K_I UW_I N_E
+racquets R_B AE_I K_I IH_I T_I S_E
+recommendation R_B EH_I K_I AH_I M_I AH_I N_I D_I EY_I SH_I AH_I N_E
+red R_B EH_I D_E
+refrigerator R_B AH_I F_I R_I IH_I JH_I ER_I EY_I T_I ER_E
+refrigerator R_B IH_I F_I R_I IH_I JH_I ER_I EY_I T_I ER_E
+remember R_B IH_I M_I EH_I M_I B_I ER_E
+remember R_B IY_I M_I EH_I M_I B_I ER_E
+reproachful R_B IY_I P_I R_I OW_I CH_I F_I AH_I L_E
+resembled R_B IH_I Z_I EH_I M_I B_I AH_I L_I D_E
+resembled R_B IY_I Z_I EH_I M_I B_I AH_I L_I D_E
+rhino R_B AY_I N_I OW_E
+rhinoceros R_B AY_I N_I AA_I S_I ER_I AH_I S_E
+rhinos R_B AY_I N_I OW_I Z_E
+right R_B AY_I T_E
+ritualistic R_B IH_I CH_I UW_I AH_I L_I IH_I S_I T_I IH_I K_E
+road R_B OW_I D_E
+ruby R_B UW_I B_I IY_E
+ruin R_B UW_I AH_I N_E
+ruin R_B UW_I IH_I N_E
+scanner S_B K_I AE_I N_I ER_E
+seahorse S_B IY_I HH_I AO_I R_I S_E
+seize S_B IY_I Z_E
+seven S_B EH_I V_I AH_I N_E
+sew S_B OW_E
+shave SH_B EY_I V_E
+she SH_B IY_E
+sheep SH_B IY_I P_E
+shelves SH_B EH_I L_I V_I Z_E
+shop SH_B AA_I P_E
+sieve S_B IH_I V_E
+sigh S_B AY_E
+six S_B IH_I K_I S_E
+skunk S_B K_I AH_I NG_I K_E
+snails S_B N_I EY_I L_I Z_E
+snake S_B N_I EY_I K_E
+soldier S_B OW_I L_I JH_I ER_E
+speak S_B P_I IY_I K_E
+squid S_B K_I W_I IH_I D_E
+starfish S_B T_I AA_I R_I F_I IH_I SH_E
+steamer S_B T_I IY_I M_I ER_E
+stethoscope S_B T_I EH_I TH_I AH_I S_I K_I OW_I P_E
+stopwatch S_B T_I AA_I P_I W_I AA_I CH_E
+strainer S_B T_I R_I EY_I N_I ER_E
+strawberry S_B T_I R_I AO_I B_I EH_I R_I IY_E
+stream S_B T_I R_I IY_I M_E
+strongest S_B T_I R_I AO_I NG_I G_I AH_I S_I T_E
+structural S_B T_I R_I AH_I K_I CH_I ER_I AH_I L_E
+swing S_B W_I IH_I NG_E
+sword S_B AO_I R_I D_E
+take T_B EY_I K_E
+that DH_B AE_I T_E
+that DH_B AH_I T_E
+the DH_B AH_E
+the DH_B IY_E
+their DH_B EH_I R_E
+they DH_B EY_E
+thought TH_B AO_I T_E
+three TH_B R_I IY_E
+to T_B AH_E
+to T_B IH_E
+to T_B UW_E
+tongue T_B AH_I NG_E
+toothbrush T_B UW_I TH_I B_I R_I AH_I SH_E
+top T_B AA_I P_E
+top T_B AO_I P_E
+tornado T_B AO_I R_I N_I EY_I D_I OW_E
+train T_B R_I EY_I N_E
+tree T_B R_I IY_E
+two T_B UW_E
+um AH_B M_E
+umbrella AH_B M_I B_I R_I EH_I L_I AH_E
+umbrellas AH_B M_I B_I R_I EH_I L_I AH_I Z_E
+up AH_B P_E
+volcano V_B AA_I L_I K_I EY_I N_I OW_E
+was W_B AA_I Z_E
+was W_B AH_I Z_E
+was W_B AO_I Z_E
+wasn't W_B AA_I Z_I AH_I N_I T_E
+wasn't W_B AH_I Z_I AH_I N_I T_E
+watermelon W_B AO_I T_I ER_I M_I EH_I L_I AH_I N_E
+were W_B EH_I R_E
+were W_B ER_E
+when HH_B W_I EH_I N_E
+when HH_B W_I IH_I N_E
+when W_B EH_I N_E
+when W_B IH_I N_E
+white HH_B W_I AY_I T_E
+white W_B AY_I T_E
+with W_B IH_I DH_E
+with W_B IH_I TH_E
+would W_B UH_I D_E
+yacht Y_B AA_I T_E
+yellow Y_B EH_I L_I OW_E
+you Y_B UW_E
+Johnson OW_B N_I S_I AH_I N_E
+Masterson AE_B S_I T_I ER_I S_I AH_I N_E
+Mrs R_B Z_E
+Persian ER_B ZH_I AH_I N_E
+Singer IH_B NG_I G_I ER_E
+White HH_B AY_I T_E
+morning, M_B AO_I R_I N_I IH_I NG_E
+qtip K_B T_I IH_I P_E
+!SIL SIL_S
+[unk] NSN_S
+<eps> SIL

@@ -1,0 +1,282 @@
+a	AH
+a	EY
+ache	EY K
+addressed	AH D R EH S T
+aisle	AY AH L
+aisle	AY L
+an	AE N
+an	AH N
+ankle	AE NG K AH L
+artillery	AA R T IH L ER IY
+at	AE T
+ball	B AO L
+bandaid	B AE N D EY D
+beautiful	B Y UW T AH F AH L
+before	B IH F AO R
+before	B IY F AO R
+blizzard	B L IH Z ER D
+blue	B L UW
+boat	B OW T
+book	B UH K
+boys	B OY Z
+bracelet	B R EY S L AH T
+breakfast	B R EH K F AH S T
+bridge	B R IH JH
+bus	B AH S
+butterfly	B AH T ER F L AY
+button	B AH T AH N
+by	B AY
+cape	K EY P
+car	K AA R
+carriage	K AE R IH JH
+carriage	K EH R AH JH
+celery	S EH L ER IY
+cello	CH EH L OW
+champ	CH AE M P
+chandelier	SH AE N D AH L IH R
+chandeliers	SH AE N D AH L IH Z
+chased	CH EY S T
+cheer	CH IH R
+child	CH AY L D
+choir	K W AY ER
+coat	K OW T
+colonel	K ER N AH L
+contained	K AH N T EY N D
+continental	K AA N T AH N EH N AH L
+continental	K AA N T AH N EH N T AH L
+cool	K UW L
+corn	K AO R N
+cow	K AW
+crown	K R AW N
+cucumber	K Y UW K AH M B ER
+currant	K ER AH N T
+dance	D AE N S
+debris	D AH B R IY
+debt	D EH T
+deer	D IH R
+defect	D IH F EH K T
+defect	D IY F EH K T
+don't	D OW N
+don't	D OW N T
+dont	D OW N T
+door	D AO R
+drain	D R EY N
+dress	D R EH S
+driveway	D R AY V W EY
+earth	ER TH
+earthquake	ER TH K W EY K
+eggplant	EH G P L AE N T
+eight	EY T
+elders	EH L D ER Z
+even	IY V IH N
+exceptionally	IH K S EH P SH AH N AH L IY
+exceptionally	IH K S EH P SH N AH L IY
+factory	F AE K T ER IY
+family	F AE M AE L IY
+family	F AE M AH L IY
+family	F AE M L IY
+fan	F AE N
+ferry	F EH R IY
+fig	F IH G
+five	F AY V
+folder	F OW L D ER
+following	F AA L OW IH NG
+forgot	F AO R G AA T
+forgot	F ER G AA T
+four	F AO R
+freight	F R EY T
+frightened	F R AY T AH N D
+fun	F AH N
+game	G EY M
+garlic	G AA R L IH K
+gauge	G EY JH
+ginger	JH IH N JH ER
+giraffe	JH ER AE F
+girls	G ER L Z
+give	G IH V
+glasses	G L AE S AH Z
+glasses	G L AE S IH Z
+glue	G L UW
+goggles	G AA G AH L Z
+gosh	G AA SH
+green	G R IY N
+grey	G R EY
+grin	G R IH N
+guava	G W AA V AH
+gym	JH IH M
+had	HH AE D
+happy	HH AE P IY
+harmonica	HH AA R M AA N IH K AH
+harmonics	HH AA R M AA N IH K S
+has	HH AE Z
+has	HH AH Z
+he	HH IY
+he	IY
+heir	EH R
+her	HH ER
+honeycomb	HH AH N IY K OW M
+honeycombs	HH AH N IY K AA M Z
+hood	HH UH D
+hoop	HH UW P
+hope	HH OW P
+hotel	HH OW T EH L
+hurdle	HH ER D AH L
+i	AY
+igloo	IH G L UW
+in	IH N
+is	IH Z
+it	IH T
+joke	JH OW K
+joy	JH OY
+jump	JH AH M P
+kale	K EY L
+knock	N AA K
+know	N AH UH
+know	N OW
+lady	L EY D IY
+lagoon	L AH G UW N
+lake	L EY K
+lane	L EY N
+laptop	L AE P T AA P
+laugh	L AE F
+leaf	L IY F
+left	L EH F T
+lettuce	L EH T AH S
+limb	L IH M
+lobster	L AA B S T ER
+luck	L AH K
+magnet	M AE G N AH T
+manor	M AE N ER
+marker	M AA R K ER
+mary	M EH R IY
+masterson	M AE S T ER S AH N
+matronly	M EY T R AH N L IY
+matt	M AE T
+meadow	M EH D OW
+memo	M EH M OW
+monsoon	M AA N S UW N
+mosquito	M AH S K IY T OW
+mosquitos	M AH S K IY T OW Z
+mountain	M AW N T AH N
+move	M UW V
+mr	M IH S T ER
+mrs	M IH S IH Z
+my	M AY
+necklace	N EH K L AH S
+nephews	N EH F Y UW Z
+nine	N AY N
+no	N OW
+notebook	N OW T B UH K
+octopus	AA K T AH P UH S
+of	AH V
+oh	OW
+one	HH W AH N
+one	W AH N
+paper	P EY P ER
+parachute	P EH R AH SH UW T
+parasol	P EH R AH S AO L
+parasols	P EH R AH S OW L Z
+pear	P EH R
+persian	P ER ZH AH N
+pie	P AY
+pineapple	P AY N AE P AH L
+pint	P AY N T
+plans	P L AE N Z
+plateau	P L AE T OW
+pray	P R EY
+pushpin	P UH SH P IH N
+raccoon	R AE K UW N
+racquets	R AE K IH T S
+recommendation	R EH K AH M AH N D EY SH AH N
+red	R EH D
+refrigerator	R AH F R IH JH ER EY T ER
+refrigerator	R IH F R IH JH ER EY T ER
+remember	R IH M EH M B ER
+remember	R IY M EH M B ER
+reproachful	R IY P R OW CH F AH L
+resembled	R IH Z EH M B AH L D
+resembled	R IY Z EH M B AH L D
+rhino	R AY N OW
+rhinoceros	R AY N AA S ER AH S
+rhinos	R AY N OW Z
+right	R AY T
+ritualistic	R IH CH UW AH L IH S T IH K
+road	R OW D
+ruby	R UW B IY
+ruin	R UW AH N
+ruin	R UW IH N
+scanner	S K AE N ER
+seahorse	S IY HH AO R S
+seize	S IY Z
+seven	S EH V AH N
+sew	S OW
+shave	SH EY V
+she	SH IY
+sheep	SH IY P
+shelves	SH EH L V Z
+shop	SH AA P
+sieve	S IH V
+sigh	S AY
+six	S IH K S
+skunk	S K AH NG K
+snails	S N EY L Z
+snake	S N EY K
+soldier	S OW L JH ER
+speak	S P IY K
+squid	S K W IH D
+starfish	S T AA R F IH SH
+steamer	S T IY M ER
+stethoscope	S T EH TH AH S K OW P
+stopwatch	S T AA P W AA CH
+strainer	S T R EY N ER
+strawberry	S T R AO B EH R IY
+stream	S T R IY M
+strongest	S T R AO NG G AH S T
+structural	S T R AH K CH ER AH L
+swing	S W IH NG
+sword	S AO R D
+take	T EY K
+that	DH AE T
+that	DH AH T
+the	DH AH
+the	DH IY
+their	DH EH R
+they	DH EY
+thought	TH AO T
+three	TH R IY
+to	T AH
+to	T IH
+to	T UW
+tongue	T AH NG
+toothbrush	T UW TH B R AH SH
+top	T AA P
+top	T AO P
+tornado	T AO R N EY D OW
+train	T R EY N
+tree	T R IY
+two	T UW
+um	AH M
+umbrella	AH M B R EH L AH
+umbrellas	AH M B R EH L AH Z
+up	AH P
+volcano	V AA L K EY N OW
+was	W AA Z
+was	W AH Z
+was	W AO Z
+wasn't	W AA Z AH N T
+wasn't	W AH Z AH N T
+watermelon	W AO T ER M EH L AH N
+were	W EH R
+were	W ER
+when	HH W EH N
+when	HH W IH N
+when	W EH N
+when	W IH N
+white	HH W AY T
+white	W AY T
+with	W IH DH
+with	W IH TH
+would	W UH D
+yacht	Y AA T
+yellow	Y EH L OW
+you	Y UW

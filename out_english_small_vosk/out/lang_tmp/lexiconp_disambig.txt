@@ -1,0 +1,292 @@
+a	1.0	AH_S
+a	1.0	EY_S
+ache	1.0	EY_B K_E
+addressed	1.0	AH_B D_I R_I EH_I S_I T_E
+aisle	1.0	AY_B AH_I L_E
+aisle	1.0	AY_B L_E
+an	1.0	AE_B N_E
+an	1.0	AH_B N_E
+ankle	1.0	AE_B NG_I K_I AH_I L_E
+artillery	1.0	AA_B R_I T_I IH_I L_I ER_I IY_E
+at	1.0	AE_B T_E
+ball	1.0	B_B AO_I L_E
+bandaid	1.0	B_B AE_I N_I D_I EY_I D_E
+beautiful	1.0	B_B Y_I UW_I T_I AH_I F_I AH_I L_E
+before	1.0	B_B IH_I F_I AO_I R_E
+before	1.0	B_B IY_I F_I AO_I R_E
+blizzard	1.0	B_B L_I IH_I Z_I ER_I D_E
+blue	1.0	B_B L_I UW_E
+boat	1.0	B_B OW_I T_E
+book	1.0	B_B UH_I K_E
+boys	1.0	B_B OY_I Z_E
+bracelet	1.0	B_B R_I EY_I S_I L_I AH_I T_E
+breakfast	1.0	B_B R_I EH_I K_I F_I AH_I S_I T_E
+bridge	1.0	B_B R_I IH_I JH_E
+bus	1.0	B_B AH_I S_E
+butterfly	1.0	B_B AH_I T_I ER_I F_I L_I AY_E
+button	1.0	B_B AH_I T_I AH_I N_E
+by	1.0	B_B AY_E
+cape	1.0	K_B EY_I P_E
+car	1.0	K_B AA_I R_E
+carriage	1.0	K_B AE_I R_I IH_I JH_E
+carriage	1.0	K_B EH_I R_I AH_I JH_E
+celery	1.0	S_B EH_I L_I ER_I IY_E
+cello	1.0	CH_B EH_I L_I OW_E
+champ	1.0	CH_B AE_I M_I P_E
+chandelier	1.0	SH_B AE_I N_I D_I AH_I L_I IH_I R_E
+chandeliers	1.0	SH_B AE_I N_I D_I AH_I L_I IH_I Z_E
+chased	1.0	CH_B EY_I S_I T_E
+cheer	1.0	CH_B IH_I R_E
+child	1.0	CH_B AY_I L_I D_E
+choir	1.0	K_B W_I AY_I ER_E
+coat	1.0	K_B OW_I T_E
+colonel	1.0	K_B ER_I N_I AH_I L_E
+contained	1.0	K_B AH_I N_I T_I EY_I N_I D_E
+continental	1.0	K_B AA_I N_I T_I AH_I N_I EH_I N_I AH_I L_E
+continental	1.0	K_B AA_I N_I T_I AH_I N_I EH_I N_I T_I AH_I L_E
+cool	1.0	K_B UW_I L_E
+corn	1.0	K_B AO_I R_I N_E
+cow	1.0	K_B AW_E
+crown	1.0	K_B R_I AW_I N_E
+cucumber	1.0	K_B Y_I UW_I K_I AH_I M_I B_I ER_E
+currant	1.0	K_B ER_I AH_I N_I T_E
+dance	1.0	D_B AE_I N_I S_E
+debris	1.0	D_B AH_I B_I R_I IY_E
+debt	1.0	D_B EH_I T_E
+deer	1.0	D_B IH_I R_E
+defect	1.0	D_B IH_I F_I EH_I K_I T_E
+defect	1.0	D_B IY_I F_I EH_I K_I T_E
+don't	1.0	D_B OW_I N_E
+don't	1.0	D_B OW_I N_I T_E #1
+dont	1.0	D_B OW_I N_I T_E #2
+door	1.0	D_B AO_I R_E
+drain	1.0	D_B R_I EY_I N_E
+dress	1.0	D_B R_I EH_I S_E
+driveway	1.0	D_B R_I AY_I V_I W_I EY_E
+earth	1.0	ER_B TH_E
+earthquake	1.0	ER_B TH_I K_I W_I EY_I K_E
+eggplant	1.0	EH_B G_I P_I L_I AE_I N_I T_E
+eight	1.0	EY_B T_E
+elders	1.0	EH_B L_I D_I ER_I Z_E
+even	1.0	IY_B V_I IH_I N_E
+exceptionally	1.0	IH_B K_I S_I EH_I P_I SH_I AH_I N_I AH_I L_I IY_E
+exceptionally	1.0	IH_B K_I S_I EH_I P_I SH_I N_I AH_I L_I IY_E
+factory	1.0	F_B AE_I K_I T_I ER_I IY_E
+family	1.0	F_B AE_I M_I AE_I L_I IY_E
+family	1.0	F_B AE_I M_I AH_I L_I IY_E
+family	1.0	F_B AE_I M_I L_I IY_E
+fan	1.0	F_B AE_I N_E
+ferry	1.0	F_B EH_I R_I IY_E
+fig	1.0	F_B IH_I G_E
+five	1.0	F_B AY_I V_E
+folder	1.0	F_B OW_I L_I D_I ER_E
+following	1.0	F_B AA_I L_I OW_I IH_I NG_E
+forgot	1.0	F_B AO_I R_I G_I AA_I T_E
+forgot	1.0	F_B ER_I G_I AA_I T_E
+four	1.0	F_B AO_I R_E
+freight	1.0	F_B R_I EY_I T_E
+frightened	1.0	F_B R_I AY_I T_I AH_I N_I D_E
+fun	1.0	F_B AH_I N_E
+game	1.0	G_B EY_I M_E
+garlic	1.0	G_B AA_I R_I L_I IH_I K_E
+gauge	1.0	G_B EY_I JH_E
+ginger	1.0	JH_B IH_I N_I JH_I ER_E
+giraffe	1.0	JH_B ER_I AE_I F_E
+girls	1.0	G_B ER_I L_I Z_E
+give	1.0	G_B IH_I V_E
+glasses	1.0	G_B L_I AE_I S_I AH_I Z_E
+glasses	1.0	G_B L_I AE_I S_I IH_I Z_E
+glue	1.0	G_B L_I UW_E
+goggles	1.0	G_B AA_I G_I AH_I L_I Z_E
+gosh	1.0	G_B AA_I SH_E
+green	1.0	G_B R_I IY_I N_E
+grey	1.0	G_B R_I EY_E
+grin	1.0	G_B R_I IH_I N_E
+guava	1.0	G_B W_I AA_I V_I AH_E
+gym	1.0	JH_B IH_I M_E
+had	1.0	HH_B AE_I D_E
+happy	1.0	HH_B AE_I P_I IY_E
+harmonica	1.0	HH_B AA_I R_I M_I AA_I N_I IH_I K_I AH_E
+harmonics	1.0	HH_B AA_I R_I M_I AA_I N_I IH_I K_I S_E
+has	1.0	HH_B AE_I Z_E
+has	1.0	HH_B AH_I Z_E
+he	1.0	HH_B IY_E
+he	1.0	IY_S
+heir	1.0	EH_B R_E
+her	1.0	HH_B ER_E
+honeycomb	1.0	HH_B AH_I N_I IY_I K_I OW_I M_E
+honeycombs	1.0	HH_B AH_I N_I IY_I K_I AA_I M_I Z_E
+hood	1.0	HH_B UH_I D_E
+hoop	1.0	HH_B UW_I P_E
+hope	1.0	HH_B OW_I P_E
+hotel	1.0	HH_B OW_I T_I EH_I L_E
+hurdle	1.0	HH_B ER_I D_I AH_I L_E
+i	1.0	AY_S
+igloo	1.0	IH_B G_I L_I UW_E
+in	1.0	IH_B N_E
+is	1.0	IH_B Z_E
+it	1.0	IH_B T_E
+joke	1.0	JH_B OW_I K_E
+joy	1.0	JH_B OY_E
+jump	1.0	JH_B AH_I M_I P_E
+kale	1.0	K_B EY_I L_E
+knock	1.0	N_B AA_I K_E
+know	1.0	N_B AH_I UH_E
+know	1.0	N_B OW_E #1
+lady	1.0	L_B EY_I D_I IY_E
+lagoon	1.0	L_B AH_I G_I UW_I N_E
+lake	1.0	L_B EY_I K_E
+lane	1.0	L_B EY_I N_E
+laptop	1.0	L_B AE_I P_I T_I AA_I P_E
+laugh	1.0	L_B AE_I F_E
+leaf	1.0	L_B IY_I F_E
+left	1.0	L_B EH_I F_I T_E
+lettuce	1.0	L_B EH_I T_I AH_I S_E
+limb	1.0	L_B IH_I M_E
+lobster	1.0	L_B AA_I B_I S_I T_I ER_E
+luck	1.0	L_B AH_I K_E
+magnet	1.0	M_B AE_I G_I N_I AH_I T_E
+manor	1.0	M_B AE_I N_I ER_E
+marker	1.0	M_B AA_I R_I K_I ER_E
+mary	1.0	M_B EH_I R_I IY_E
+masterson	1.0	M_B AE_I S_I T_I ER_I S_I AH_I N_E
+matronly	1.0	M_B EY_I T_I R_I AH_I N_I L_I IY_E
+matt	1.0	M_B AE_I T_E
+meadow	1.0	M_B EH_I D_I OW_E
+memo	1.0	M_B EH_I M_I OW_E
+monsoon	1.0	M_B AA_I N_I S_I UW_I N_E
+mosquito	1.0	M_B AH_I S_I K_I IY_I T_I OW_E
+mosquitos	1.0	M_B AH_I S_I K_I IY_I T_I OW_I Z_E
+mountain	1.0	M_B AW_I N_I T_I AH_I N_E
+move	1.0	M_B UW_I V_E
+mr	1.0	M_B IH_I S_I T_I ER_E
+mrs	1.0	M_B IH_I S_I IH_I Z_E
+my	1.0	M_B AY_E
+necklace	1.0	N_B EH_I K_I L_I AH_I S_E
+nephews	1.0	N_B EH_I F_I Y_I UW_I Z_E
+nine	1.0	N_B AY_I N_E
+no	1.0	N_B OW_E #2
+notebook	1.0	N_B OW_I T_I B_I UH_I K_E
+octopus	1.0	AA_B K_I T_I AH_I P_I UH_I S_E
+of	1.0	AH_B V_E
+oh	1.0	OW_S
+one	1.0	HH_B W_I AH_I N_E
+one	1.0	W_B AH_I N_E
+paper	1.0	P_B EY_I P_I ER_E
+parachute	1.0	P_B EH_I R_I AH_I SH_I UW_I T_E
+parasol	1.0	P_B EH_I R_I AH_I S_I AO_I L_E
+parasols	1.0	P_B EH_I R_I AH_I S_I OW_I L_I Z_E
+pear	1.0	P_B EH_I R_E
+persian	1.0	P_B ER_I ZH_I AH_I N_E
+pie	1.0	P_B AY_E
+pineapple	1.0	P_B AY_I N_I AE_I P_I AH_I L_E
+pint	1.0	P_B AY_I N_I T_E
+plans	1.0	P_B L_I AE_I N_I Z_E
+plateau	1.0	P_B L_I AE_I T_I OW_E
+pray	1.0	P_B R_I EY_E
+pushpin	1.0	P_B UH_I SH_I P_I IH_I N_E
+raccoon	1.0	R_B AE_I K_I UW_I N_E
+racquets	1.0	R_B AE_I K_I IH_I T_I S_E
+recommendation	1.0	R_B EH_I K_I AH_I M_I AH_I N_I D_I EY_I SH_I AH_I N_E
+red	1.0	R_B EH_I D_E
+refrigerator	1.0	R_B AH_I F_I R_I IH_I JH_I ER_I EY_I T_I ER_E
+refrigerator	1.0	R_B IH_I F_I R_I IH_I JH_I ER_I EY_I T_I ER_E
+remember	1.0	R_B IH_I M_I EH_I M_I B_I ER_E
+remember	1.0	R_B IY_I M_I EH_I M_I B_I ER_E
+reproachful	1.0	R_B IY_I P_I R_I OW_I CH_I F_I AH_I L_E
+resembled	1.0	R_B IH_I Z_I EH_I M_I B_I AH_I L_I D_E
+resembled	1.0	R_B IY_I Z_I EH_I M_I B_I AH_I L_I D_E
+rhino	1.0	R_B AY_I N_I OW_E
+rhinoceros	1.0	R_B AY_I N_I AA_I S_I ER_I AH_I S_E
+rhinos	1.0	R_B AY_I N_I OW_I Z_E
+right	1.0	R_B AY_I T_E
+ritualistic	1.0	R_B IH_I CH_I UW_I AH_I L_I IH_I S_I T_I IH_I K_E
+road	1.0	R_B OW_I D_E
+ruby	1.0	R_B UW_I B_I IY_E
+ruin	1.0	R_B UW_I AH_I N_E
+ruin	1.0	R_B UW_I IH_I N_E
+scanner	1.0	S_B K_I AE_I N_I ER_E
+seahorse	1.0	S_B IY_I HH_I AO_I R_I S_E
+seize	1.0	S_B IY_I Z_E
+seven	1.0	S_B EH_I V_I AH_I N_E
+sew	1.0	S_B OW_E
+shave	1.0	SH_B EY_I V_E
+she	1.0	SH_B IY_E
+sheep	1.0	SH_B IY_I P_E
+shelves	1.0	SH_B EH_I L_I V_I Z_E
+shop	1.0	SH_B AA_I P_E
+sieve	1.0	S_B IH_I V_E
+sigh	1.0	S_B AY_E
+six	1.0	S_B IH_I K_I S_E
+skunk	1.0	S_B K_I AH_I NG_I K_E
+snails	1.0	S_B N_I EY_I L_I Z_E
+snake	1.0	S_B N_I EY_I K_E
+soldier	1.0	S_B OW_I L_I JH_I ER_E
+speak	1.0	S_B P_I IY_I K_E
+squid	1.0	S_B K_I W_I IH_I D_E
+starfish	1.0	S_B T_I AA_I R_I F_I IH_I SH_E
+steamer	1.0	S_B T_I IY_I M_I ER_E
+stethoscope	1.0	S_B T_I EH_I TH_I AH_I S_I K_I OW_I P_E
+stopwatch	1.0	S_B T_I AA_I P_I W_I AA_I CH_E
+strainer	1.0	S_B T_I R_I EY_I N_I ER_E
+strawberry	1.0	S_B T_I R_I AO_I B_I EH_I R_I IY_E
+stream	1.0	S_B T_I R_I IY_I M_E
+strongest	1.0	S_B T_I R_I AO_I NG_I G_I AH_I S_I T_E
+structural	1.0	S_B T_I R_I AH_I K_I CH_I ER_I AH_I L_E
+swing	1.0	S_B W_I IH_I NG_E
+sword	1.0	S_B AO_I R_I D_E
+take	1.0	T_B EY_I K_E
+that	1.0	DH_B AE_I T_E
+that	1.0	DH_B AH_I T_E
+the	1.0	DH_B AH_E
+the	1.0	DH_B IY_E
+their	1.0	DH_B EH_I R_E
+they	1.0	DH_B EY_E
+thought	1.0	TH_B AO_I T_E
+three	1.0	TH_B R_I IY_E
+to	1.0	T_B AH_E
+to	1.0	T_B IH_E
+to	1.0	T_B UW_E #1
+tongue	1.0	T_B AH_I NG_E
+toothbrush	1.0	T_B UW_I TH_I B_I R_I AH_I SH_E
+top	1.0	T_B AA_I P_E
+top	1.0	T_B AO_I P_E
+tornado	1.0	T_B AO_I R_I N_I EY_I D_I OW_E
+train	1.0	T_B R_I EY_I N_E
+tree	1.0	T_B R_I IY_E
+two	1.0	T_B UW_E #2
+um	1.0	AH_B M_E
+umbrella	1.0	AH_B M_I B_I R_I EH_I L_I AH_E
+umbrellas	1.0	AH_B M_I B_I R_I EH_I L_I AH_I Z_E
+up	1.0	AH_B P_E
+volcano	1.0	V_B AA_I L_I K_I EY_I N_I OW_E
+was	1.0	W_B AA_I Z_E
+was	1.0	W_B AH_I Z_E
+was	1.0	W_B AO_I Z_E
+wasn't	1.0	W_B AA_I Z_I AH_I N_I T_E
+wasn't	1.0	W_B AH_I Z_I AH_I N_I T_E
+watermelon	1.0	W_B AO_I T_I ER_I M_I EH_I L_I AH_I N_E
+were	1.0	W_B EH_I R_E
+were	1.0	W_B ER_E
+when	1.0	HH_B W_I EH_I N_E
+when	1.0	HH_B W_I IH_I N_E
+when	1.0	W_B EH_I N_E
+when	1.0	W_B IH_I N_E
+white	1.0	HH_B W_I AY_I T_E
+white	1.0	W_B AY_I T_E
+with	1.0	W_B IH_I DH_E
+with	1.0	W_B IH_I TH_E
+would	1.0	W_B UH_I D_E
+yacht	1.0	Y_B AA_I T_E
+yellow	1.0	Y_B EH_I L_I OW_E
+you	1.0	Y_B UW_E
+Johnson	1.0	OW_B N_I S_I AH_I N_E
+Masterson	1.0	AE_B S_I T_I ER_I S_I AH_I N_E
+Mrs	1.0	R_B Z_E
+Persian	1.0	ER_B ZH_I AH_I N_E
+Singer	1.0	IH_B NG_I G_I ER_E
+White	1.0	HH_B AY_I T_E
+morning,	1.0	M_B AO_I R_I N_I IH_I NG_E
+qtip	1.0	K_B T_I IH_I P_E
+!SIL	1.0	SIL_S
+[unk]	1.0	NSN_S
